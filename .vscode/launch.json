@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/0-JavaScript-PreWork/3-JavaScript-Basics/00-setup.js"
+            "program": "${workspaceFolder}/1-JavaScript-Fundamentals/03-loops/03-forInLoops.js"
         }
     ]
 }
