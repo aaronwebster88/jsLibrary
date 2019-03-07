@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+/* NAVBAR */
+#navbar {
+    background-color: #333;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+}
+
+ul {
+    margin: 0px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+li a:hover {
+    color: aqua;
+}
+
+/* HEADER */
+
+#header {
+    background-color: teal;
+    height: 300px;
+    width: 100%;
+}
+
+.wrapper {
+    padding: 7em;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
